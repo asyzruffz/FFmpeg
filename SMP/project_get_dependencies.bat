@@ -7,6 +7,7 @@ bzip2, ^
 fontconfig, ^
 freetype2, ^
 fribidi, ^
+fdk-aac, ^
 game-music-emu, ^
 gmp, ^
 gnutls, ^
