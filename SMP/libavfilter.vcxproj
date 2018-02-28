@@ -111,6 +111,7 @@
     <ClCompile Include="..\libavfilter\graphdump.c" />
     <ClCompile Include="..\libavfilter\graphparser.c" />
     <ClCompile Include="..\libavfilter\transform.c" />
+    <ClCompile Include="..\libavfilter\vf_transform360.c" />
     <ClCompile Include="..\libavfilter\video.c" />
     <ClCompile Include="..\libavfilter\pthread.c" />
     <ClCompile Include="..\libavfilter\qsvvpp.c" />
