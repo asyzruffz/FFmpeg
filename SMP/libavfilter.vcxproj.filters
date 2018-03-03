@@ -1086,6 +1086,9 @@
     <ClCompile Include="..\libavfilter\vf_transform360.c">
       <Filter>Source Files\libavfilter</Filter>
     </ClCompile>
+    <ClCompile Include="..\libavfilter\vf_transform_v1.c">
+      <Filter>Source Files\libavfilter</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\libavfilter\avfilter.h">
